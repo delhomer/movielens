@@ -9,3 +9,4 @@ Main R script used for the investigation. It is divided in different part, namel
 -- figs
 Repository containing figures generated during database process
 
+Do not hesitate to contact me if you have any question about the supplied code!
